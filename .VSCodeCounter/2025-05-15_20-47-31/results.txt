@@ -1,0 +1,60 @@
+Date : 2025-05-15 20:47:31
+Directory : c:\xampp\htdocs\New folder (2)\final
+Total : 26 files,  5528 codes, 322 comments, 881 blanks, all 6731 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| CSS        |          8 |      2,353 |         40 |        403 |      2,796 |
+| PHP        |         11 |      1,520 |        206 |        362 |      2,088 |
+| JSON       |          1 |        922 |          0 |          1 |        923 |
+| HTML       |          4 |        373 |         34 |         32 |        439 |
+| JavaScript |          1 |        223 |         17 |         50 |        290 |
+| Python     |          1 |        137 |         25 |         33 |        195 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                       | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                          |         26 |      5,528 |        322 |        881 |      6,731 |
+| . (Files)                                                  |         16 |      2,791 |        194 |        370 |      3,355 |
+| backend                                                    |          1 |        137 |         25 |         33 |        195 |
+| css                                                        |          5 |      1,416 |         29 |        227 |      1,672 |
+| frontend                                                   |          2 |        590 |         28 |        122 |        740 |
+| js                                                         |          2 |        594 |         46 |        129 |        769 |
++------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                   | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\xampp\htdocs\New folder (2)\final\Final_Model_try.ipynb | JSON       |        922 |          0 |          1 |        923 |
+| c:\xampp\htdocs\New folder (2)\final\backend\app.py        | Python     |        137 |         25 |         33 |        195 |
+| c:\xampp\htdocs\New folder (2)\final\contact.html          | HTML       |         44 |          2 |          4 |         50 |
+| c:\xampp\htdocs\New folder (2)\final\css\contact.css       | CSS        |        179 |          5 |         37 |        221 |
+| c:\xampp\htdocs\New folder (2)\final\css\loginsignup.css   | CSS        |        212 |          1 |          0 |        213 |
+| c:\xampp\htdocs\New folder (2)\final\css\style.css         | CSS        |        642 |         14 |        120 |        776 |
+| c:\xampp\htdocs\New folder (2)\final\css\team.css          | CSS        |        158 |          5 |         31 |        194 |
+| c:\xampp\htdocs\New folder (2)\final\css\voice.css         | CSS        |        225 |          4 |         39 |        268 |
+| c:\xampp\htdocs\New folder (2)\final\frontend\script.js    | JavaScript |        223 |         17 |         50 |        290 |
+| c:\xampp\htdocs\New folder (2)\final\frontend\style.css    | CSS        |        367 |         11 |         72 |        450 |
+| c:\xampp\htdocs\New folder (2)\final\home.html             | HTML       |        183 |         20 |         21 |        224 |
+| c:\xampp\htdocs\New folder (2)\final\js\survey.php         | PHP        |        309 |         46 |         77 |        432 |
+| c:\xampp\htdocs\New folder (2)\final\js\survey_style.css   | CSS        |        285 |          0 |         52 |        337 |
+| c:\xampp\htdocs\New folder (2)\final\login.php             | PHP        |         40 |         10 |         11 |         61 |
+| c:\xampp\htdocs\New folder (2)\final\loginsignup.html      | HTML       |         77 |          3 |          0 |         80 |
+| c:\xampp\htdocs\New folder (2)\final\logout.php            | PHP        |          7 |          0 |          1 |          8 |
+| c:\xampp\htdocs\New folder (2)\final\save_result.php       | PHP        |         24 |          6 |          6 |         36 |
+| c:\xampp\htdocs\New folder (2)\final\save_result2.php      | PHP        |         24 |          5 |          5 |         34 |
+| c:\xampp\htdocs\New folder (2)\final\signup.php            | PHP        |         47 |          5 |         12 |         64 |
+| c:\xampp\htdocs\New folder (2)\final\store_emotion.php     | PHP        |         51 |         15 |         14 |         80 |
+| c:\xampp\htdocs\New folder (2)\final\survey.php            | PHP        |        307 |         45 |         79 |        431 |
+| c:\xampp\htdocs\New folder (2)\final\survey_style.css      | CSS        |        285 |          0 |         52 |        337 |
+| c:\xampp\htdocs\New folder (2)\final\team.html             | HTML       |         69 |          9 |          7 |         85 |
+| c:\xampp\htdocs\New folder (2)\final\updated_survey.php    | PHP        |        332 |         49 |         84 |        465 |
+| c:\xampp\htdocs\New folder (2)\final\user_queries.php      | PHP        |         29 |          6 |          9 |         44 |
+| c:\xampp\htdocs\New folder (2)\final\voice.php             | PHP        |        350 |         19 |         64 |        433 |
+| Total                                                      |            |      5,528 |        322 |        881 |      6,731 |
++------------------------------------------------------------+------------+------------+------------+------------+------------+

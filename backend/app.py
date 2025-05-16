@@ -1,4 +1,4 @@
-#uvicorn backend.app:app --host 0.0.0.0 --port 8000 --reload
+
 from fastapi import FastAPI, UploadFile, File
 from fastapi.middleware.cors import CORSMiddleware
 import numpy as np
@@ -10,8 +10,6 @@ import os
 import shutil
 import uuid
 import soundfile as sf
-from typing import List, Dict
-from pydantic import BaseModel
 
 app = FastAPI()
 
@@ -193,3 +191,5 @@ async def process_recorded_audio(file: UploadFile = File(...)):
 @app.get("/")
 def read_root():
     return {"message": "Speech Emotion Recognition API"}
+
+#uvicorn backend.app:app --host 0.0.0.0 --port 8000 --reload

@@ -1,0 +1,28 @@
+"filename", "language", "PHP", "HTML", "CSS", "JavaScript", "JSON", "Python", "comment", "blank", "total"
+"c:\xampp\htdocs\New folder (2)\final\Final_Model_try.ipynb", "JSON", 0, 0, 0, 0, 922, 0, 0, 1, 923
+"c:\xampp\htdocs\New folder (2)\final\backend\app.py", "Python", 0, 0, 0, 0, 0, 137, 25, 33, 195
+"c:\xampp\htdocs\New folder (2)\final\contact.html", "HTML", 0, 44, 0, 0, 0, 0, 2, 4, 50
+"c:\xampp\htdocs\New folder (2)\final\css\contact.css", "CSS", 0, 0, 179, 0, 0, 0, 5, 37, 221
+"c:\xampp\htdocs\New folder (2)\final\css\loginsignup.css", "CSS", 0, 0, 212, 0, 0, 0, 1, 0, 213
+"c:\xampp\htdocs\New folder (2)\final\css\style.css", "CSS", 0, 0, 642, 0, 0, 0, 14, 120, 776
+"c:\xampp\htdocs\New folder (2)\final\css\team.css", "CSS", 0, 0, 158, 0, 0, 0, 5, 31, 194
+"c:\xampp\htdocs\New folder (2)\final\css\voice.css", "CSS", 0, 0, 225, 0, 0, 0, 4, 39, 268
+"c:\xampp\htdocs\New folder (2)\final\frontend\script.js", "JavaScript", 0, 0, 0, 223, 0, 0, 17, 50, 290
+"c:\xampp\htdocs\New folder (2)\final\frontend\style.css", "CSS", 0, 0, 367, 0, 0, 0, 11, 72, 450
+"c:\xampp\htdocs\New folder (2)\final\home.html", "HTML", 0, 183, 0, 0, 0, 0, 20, 21, 224
+"c:\xampp\htdocs\New folder (2)\final\js\survey.php", "PHP", 309, 0, 0, 0, 0, 0, 46, 77, 432
+"c:\xampp\htdocs\New folder (2)\final\js\survey_style.css", "CSS", 0, 0, 285, 0, 0, 0, 0, 52, 337
+"c:\xampp\htdocs\New folder (2)\final\login.php", "PHP", 40, 0, 0, 0, 0, 0, 10, 11, 61
+"c:\xampp\htdocs\New folder (2)\final\loginsignup.html", "HTML", 0, 77, 0, 0, 0, 0, 3, 0, 80
+"c:\xampp\htdocs\New folder (2)\final\logout.php", "PHP", 7, 0, 0, 0, 0, 0, 0, 1, 8
+"c:\xampp\htdocs\New folder (2)\final\save_result.php", "PHP", 24, 0, 0, 0, 0, 0, 6, 6, 36
+"c:\xampp\htdocs\New folder (2)\final\save_result2.php", "PHP", 24, 0, 0, 0, 0, 0, 5, 5, 34
+"c:\xampp\htdocs\New folder (2)\final\signup.php", "PHP", 47, 0, 0, 0, 0, 0, 5, 12, 64
+"c:\xampp\htdocs\New folder (2)\final\store_emotion.php", "PHP", 51, 0, 0, 0, 0, 0, 15, 14, 80
+"c:\xampp\htdocs\New folder (2)\final\survey.php", "PHP", 307, 0, 0, 0, 0, 0, 45, 79, 431
+"c:\xampp\htdocs\New folder (2)\final\survey_style.css", "CSS", 0, 0, 285, 0, 0, 0, 0, 52, 337
+"c:\xampp\htdocs\New folder (2)\final\team.html", "HTML", 0, 69, 0, 0, 0, 0, 9, 7, 85
+"c:\xampp\htdocs\New folder (2)\final\updated_survey.php", "PHP", 332, 0, 0, 0, 0, 0, 49, 84, 465
+"c:\xampp\htdocs\New folder (2)\final\user_queries.php", "PHP", 29, 0, 0, 0, 0, 0, 6, 9, 44
+"c:\xampp\htdocs\New folder (2)\final\voice.php", "PHP", 350, 0, 0, 0, 0, 0, 19, 64, 433
+"Total", "-", 1520, 373, 2353, 223, 922, 137, 322, 881, 6731

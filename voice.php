@@ -1,5 +1,5 @@
 <?php
-session_start(); // Start the session
+session_start(); 
 
 if (!isset($_SESSION['user_id'])) {
     // Not logged in, redirect to login page
@@ -25,13 +25,13 @@ if (!isset($_SESSION['user_id'])) {
         <nav>
             <ul>
                 <li><a href="home.html">Home</a></li>
-                <li><a href="#">Services</a></li>
+                
                 <li><a href="team.html">Team</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="contact.php">Contact</a></li>
                 <li><a href="logout.php">Logout</a></li>
             </ul>
         </nav>
-        <a href="./survey.php" class="btn get-started">Emotion Survey</a>
+        <a href="./updated_survey.php" class="btn get-started">Emotion Survey</a>
     </header>
     <div class="container">
         <h1>Speech Emotion Recognition</h1>
